@@ -13,7 +13,7 @@ This module is part of the Gmail Label Email Processor toolkit. To use it, ensur
 
 ## Prerequisites
 
-Before using the gmail_label_manager, you must have completed the authentication setup provided by gmail_api_auth.py, including obtaining a credentials.json file from the Google Developer Console and ensuring it is placed in the project root.
+Before using the gmail_label_manager, you must have completed the authentication setup provided by `gmail_api_auth.py`, including obtaining a `credentials.json` file from the Google Developer Console and ensuring it is placed in the project root.
 
 ## Usage
 

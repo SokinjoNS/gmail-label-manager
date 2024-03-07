@@ -11,11 +11,6 @@ The `gmail_label_manager` module is a crucial component of the Gmail Label Email
 
 This module is part of the Gmail Label Email Processor toolkit. To use it, ensure you have Python 3.6 or higher installed.
 
-```bash
-git clone https://github.com/yourusername/gmail-label-email-processor.git
-cd gmail-label-email-processor
-
-
 ## Prerequisites
 
 Before using the gmail_label_manager, you must have completed the authentication setup provided by gmail_api_auth.py, including obtaining a credentials.json file from the Google Developer Console and ensuring it is placed in the project root.

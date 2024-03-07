@@ -35,7 +35,7 @@ Replace "YOUR_LABEL_NAME_HERE" with the actual name of the Gmail label you wish 
 
 ## Contributing
 
-Contributions to the gmail_label_manager or any other component of the Gmail Label Email Processor toolkit are welcome.
+Contributions to the `gmail_label_manager` or any other component of the `Gmail Label Email Processor` toolkit are welcome.
 
 ## License
 

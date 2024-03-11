@@ -8,11 +8,14 @@ setup(
     description="A module for managing Gmail labels.",
     long_description=open('README.md').read(),
     url="https://github.com/SokinjoNS/gmail-label-manager",
-    project_urls":{"Source":"https://github.com/SokinjoNS/gmail-label-manager"},
     packages=find_packages(),
     install_requires=[
         'gmail-api-auth>=0.1.2',
     ],
+    project_urls={
+        "GitHub": "https://github.com/SokinjoNS/gmail-label-manager",
+        "Source": "https://github.com/SokinjoNS/gmail-label-manager"
+    },
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',

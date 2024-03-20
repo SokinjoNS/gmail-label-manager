@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gmail-label-manager",
-    version="0.1.2",
+    version="0.1.3",
     author="SokinjoNS",
     author_email="sokinjo.155@gmail.com",
     description="A module for managing Gmail labels.",
@@ -10,7 +10,7 @@ setup(
     url="https://github.com/SokinjoNS/gmail-label-manager",
     packages=find_packages(),
     install_requires=[
-        'gmail-api-auth>=0.1.2',
+        'gmail-api-auth>=0.1.3',
     ],
     project_urls={
         "GitHub": "https://github.com/SokinjoNS/gmail-label-manager",
